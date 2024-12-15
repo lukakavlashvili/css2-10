@@ -1,0 +1,533 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.mainconteiner {
+  padding: 96px;
+  background: #e2f7ff;
+  width: 1604px;
+  height: 2108px;
+  margin: 64px auto 368px;
+}
+
+.image {
+  border-radius: 16px;
+  max-width: 1216px;
+  margin: 0 auto;
+}
+
+.fullimage {
+  margin: 0 auto;
+  max-width: 1216px;
+}
+
+.Olivia {
+  color: #6941c6;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.review {
+  color: #181d27;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 8px;
+  display: inline-block;
+  width: 1176px;
+  vertical-align: top;
+}
+
+.svg {
+  width: 24px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.create {
+  color: #535862;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.Design {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #e9d7fe;
+  color: #6941c6;
+  text-align: center;
+  background: #f9f5ff;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Research {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #c7d7fe;
+  display: inline-block;
+  vertical-align: middle;
+  background: #eef4ff;
+  margin-top: 24px;
+  margin-left: 8px;
+}
+
+.width {
+  max-width: 71px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Presentation {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #fcceee;
+  background: #fdf2fa;
+  width: 110px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 8px;
+  margin-top: 24px;
+}
+
+.firstimage {
+  max-width: 384px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.mainimage {
+  max-width: 384px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Phoenix {
+  color: #6941c6;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.mainphoenix {
+  max-width: 384px;
+}
+
+.Migrating {
+  color: #181d27;
+  margin-top: 8px;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+  vertical-align: middle;
+  width: 344px;
+}
+
+.arrow {
+  width: 24px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.mainmigrating {
+  max-width: 384px;
+}
+
+.Linear {
+  color: #535862;
+  margin-top: 8px;
+  font-size: 16px;
+  font-weight: 400;
+  width: 350px;
+  display: inline-block;
+}
+
+.mainliner {
+  max-width: 350px;
+}
+
+.Product {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #b9e6fe;
+  margin-top: 24px;
+  background: #f0f9ff;
+  color: #026aa2;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500px;
+  display: inline-block;
+}
+
+.Tools {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #fcceee;
+  margin-top: 24px;
+  background: #fdf2fa;
+  color: #c11574;
+  font-size: 14px;
+  font-weight: 500px;
+  text-align: center;
+  margin-left: 8px;
+  display: inline-block;
+}
+
+.SaaS {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #fcceee;
+  margin-top: 24px;
+  color: #c11574;
+  font-size: 14px;
+  font-weight: 500px;
+  margin-left: 8px;
+  text-align: center;
+  background: #fdf2fa;
+  display: inline-block;
+}
+
+.image2 {
+  display: inline-block;
+  width: 384px;
+  margin-left: 32px;
+}
+
+.mainimage2 {
+  max-width: 384px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.jumbera {
+  max-width: 384px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.lasha {
+  margin-top: 64px;
+}
+
+.lana {
+  color: #6941c6;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 32px;
+}
+
+.Building {
+  color: #181d27;
+  margin-top: 8px;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+  vertical-align: middle;
+  width: 324px;
+  margin-left: 32px;
+}
+
+.arrow2 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 24px;
+}
+
+.rise {
+  color: #535862;
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 32px;
+  margin-top: 8px;
+}
+
+.Software {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #abefc6;
+  background: #ecfdf3;
+  color: #067647;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 500;
+  margin-top: 24px;
+  margin-left: 32px;
+}
+
+.image3 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 384px;
+}
+
+.mainimage3 {
+  max-width: 384px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 56px;
+}
+
+.Alec {
+  color: #6941c6;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.mainAlec {
+  display: inline-block;
+  width: 384px;
+}
+
+.Bill {
+  color: #181d27;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 8px;
+  width: 344px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.arrow3 {
+  width: 24px;
+  margin-top: 8px;
+}
+
+.Like {
+  color: #535862;
+  font-size: 16px;
+  font-weight: 400;
+  width: 338px;
+  margin-top: 8px;
+}
+
+.Leadership {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #e9d7fe;
+  color: #6941c6;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 500;
+  background: #f9f5ff;
+  margin-top: 24px;
+}
+
+.Management {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #d5d9eb;
+  color: #363f72;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 500;
+  background: #f8f9fc;
+  margin-left: 8px;
+}
+
+.image4 {
+  max-width: 384px;
+  display: inline-block;
+}
+
+.mainiamge4 {
+  max-width: 384px;
+  display: inline-block;
+  margin-top: 48px;
+  vertical-align: middle;
+}
+
+.Demi {
+  width: 384px;
+  color: #6941c6;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.mainDemi {
+  max-width: 384px;
+}
+
+.mental {
+  color: #181d27;
+  font-weight: 600;
+  margin-top: 8px;
+  font-size: 24px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 344px;
+}
+
+.arrow4 {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.complex {
+  color: #535862;
+  width: 344px;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.Product2 {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #b9e6fe;
+  margin-top: 24px;
+  background: #f0f9ff;
+  color: #026aa2;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 500px;
+}
+
+.Research {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #c7d7fe;
+  vertical-align: top;
+  background: #eef4ff;
+  margin-left: 8px;
+  font-size: 14px;
+  font-weight: 500px;
+  color: #3538cd;
+  text-align: center;
+}
+
+.Frameworks {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #f9dbaf;
+  color: #b93815;
+  font-size: 14px;
+  font-weight: 500px;
+  text-align: center;
+  background: #fef6ee;
+  margin-left: 8px;
+}
+
+.mainiamge5 {
+  display: inline-block;
+  max-width: 384px;
+  vertical-align: top;
+  margin-top: 48px;
+}
+
+.image5 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 384px;
+  margin-left: 32px;
+}
+
+.Candice {
+  color: #6941C6;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-left: 32px;
+}
+
+.wireframing {
+  color: #181D27;
+  margin-top: 8px;
+  margin-left: 32px;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+   vertical-align: middle;
+   width: 324px;
+}
+
+.arrow5 {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.Introduction {
+  color: #535862;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-left: 32px;
+  font-size: 16px;
+  width: 338px;
+}
+
+.Design2 {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #e9d7fe;
+  color: #6941c6;
+  text-align: center;
+  background: #f9f5ff;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 24px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 32px;
+}
+
+.okey {
+  margin-left: 60px;
+}
+
+.Natali {
+  color: #6941C6;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 60px;
+}
+
+.collaboration {
+  color: #181D27;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 8px;
+  margin-left: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 296px;
+}
+
+.arrow6 {
+  display: inline-block;
+  width: 24px;
+}
+
+.make {
+  color: #535862;
+font-size: 16px;
+  font-size: 16px;
+  font-weight: 400;
+margin-left: 60px;
+margin-top: 8px;
+}
+
+.Design3 {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  border: 1px solid #e9d7fe;
+  color: #6941c6;
+  text-align: center;
+  background: #f9f5ff;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 24px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 60px;
+}
